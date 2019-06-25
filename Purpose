@@ -1,0 +1,5 @@
+Introduction/Business Problem
+  A business owner wants to open a new thai food restaurant somewhere in the Pittsburgh area. The owner wants to maximize profits by ensuring that the location chosen is not near any other existing thai restaurants and that the surrounding restaurants are more expensive than it is. I will determine an appropriate neighborhood for the restaurant. 
+  
+Data
+  I will use the information about neighboring restaurants in multiple different neighborhoods in order to determine which neighborhood is optimal for the new restaurant. 
